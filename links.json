@@ -1,8 +1,8 @@
 {
     "minicord":  "https://friendly-cloudy-telecom-finance.trycloudflare.com/",
     "roguelike":  "https://friendly-cloudy-telecom-finance.trycloudflare.com/roguelike/",
-    "online":  true,
-    "reason":  null,
-    "updated":  "2026-10-18T13:03:44Z",
+    "online":  false,
+    "reason":  "",
+    "updated":  "2026-10-18T13:41:07Z",
     "note":  "Written by go-online.bat / go-offline.bat - the game hub reads this file. Do not edit by hand."
 }
