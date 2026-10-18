@@ -1,8 +1,8 @@
 {
     "minicord":  "https://syndrome-richards-survival-secondary.trycloudflare.com/",
     "roguelike":  "https://syndrome-richards-survival-secondary.trycloudflare.com/roguelike/",
-    "online":  true,
-    "reason":  null,
-    "updated":  "2026-10-18T09:23:59Z",
+    "online":  false,
+    "reason":  "Tidying up the server files - back in a minute",
+    "updated":  "2026-10-18T12:56:39Z",
     "note":  "Written by go-online.bat / go-offline.bat - the game hub reads this file. Do not edit by hand."
 }
