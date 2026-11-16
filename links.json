@@ -3,6 +3,11 @@
     "roguelike":  "https://customise-appearing-ross-ideas.trycloudflare.com/roguelike/",
     "online":  true,
     "reason":  null,
-    "updated":  "2026-11-16T12:38:35Z",
+    "updated":  "2026-11-16T14:20:52Z",
+    "version":  "2.32.7",
+    "standalone":  {
+                       "ready":  true,
+                       "minFile":  1
+                   },
     "note":  "Written by go-online.bat / go-offline.bat - the game hub reads this file. Do not edit by hand."
 }
