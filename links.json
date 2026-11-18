@@ -1,9 +1,9 @@
 {
-    "minicord":  "https://convention-outlets-municipality-gardening.trycloudflare.com/",
-    "roguelike":  "https://convention-outlets-municipality-gardening.trycloudflare.com/roguelike/",
-    "online":  false,
-    "reason":  "goonnight",
-    "updated":  "2026-11-18T03:13:57Z",
+    "minicord":  "https://around-researcher-keyboard-teacher.trycloudflare.com/",
+    "roguelike":  "https://around-researcher-keyboard-teacher.trycloudflare.com/roguelike/",
+    "online":  true,
+    "reason":  null,
+    "updated":  "2026-11-18T12:32:39Z",
     "version":  "2.37.3",
     "standalone":  {
                        "ready":  true,
